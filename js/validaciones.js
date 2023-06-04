@@ -42,7 +42,7 @@ const mensajesDeError = {
         customError: "Debes tener al menos 18 años de edad",
     },
     numero: {
-        valueMissing: "El campo numero no puede estar vacío",
+        valueMissing: "El campo número telefónico no puede estar vacío",
         patternMismatch: "El formato requerido es XXXXXXXXXX (10 números)",
     },
     direccion: {
